@@ -1,0 +1,18 @@
+section#main {
+	background-color: #fff;
+	height: 70vh;
+}
+section#lesson_2 {
+    height: 100vh;
+    padding-top: 50px;
+}
+.box {
+	height: 100vh;
+	border: 2px solid;
+	background-color: #000;
+}
+.box_in {
+	height: 50px;
+	border: 2px dashed;
+	background-color: green;
+} 
