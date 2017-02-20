@@ -1,0 +1,28 @@
+section#block1 {
+	width: 300px;	
+}
+section#block2 {
+	width: 350px;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+section#example_1 {
+	height: 100vh;
+	background-image: url(../img/i.jpg);
+	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+section#example_2 {
+	height: 100vh;
+	background-image: url(../img/pattern1.jpg);
+	background-repeat: repeat;
+}
+section#footer {
+	background-color: #fff;
+	height: 350px;
+	width: 350px
+}
